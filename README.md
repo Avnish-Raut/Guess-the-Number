@@ -14,7 +14,7 @@ Its an web application built using javascript logic
 * User can also give the name during the play , if the user does'nt give , it will be Guest by default
 
 ## Images
-[!alt text](https://github.com/Avnish-Raut/Guess-the-Number/raw/master/images/1.jpg "Image 2")
+[!alt text](https://github.com/Avnish-Raut/Guess-the-Number/raw/master/images/1.JPG "Image 2")
 
 ## Requirements
 1. Vscode or Sublime or any editor compatible with js 
