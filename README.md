@@ -14,20 +14,21 @@ Its an web application built using javascript logic
 * User can also give the name during the play , if the user does'nt give , it will be Guest by default
 
 ## Images
+#### This is before starting the game
 ![alt text](https://github.com/Avnish-Raut/Guess-the-Number/raw/master/images/1.JPG "Image 1")
-This is before starting the game
+#### This is guess 1 with user also giving name
 ![alt text](https://github.com/Avnish-Raut/Guess-the-Number/raw/master/images/2.JPG "Image 2")
-This is guess 1 with user also giving name
+#### This is guess 2
 ![alt text](https://github.com/Avnish-Raut/Guess-the-Number/raw/master/images/3.JPG "Image 3")
-This is guess 2
+#### This is guess 3
 ![alt text](https://github.com/Avnish-Raut/Guess-the-Number/raw/master/images/4.JPG "Image 4")
-This is guess 3
+#### This is guess 4
 ![alt text](https://github.com/Avnish-Raut/Guess-the-Number/raw/master/images/5.JPG "Image 5")
-This is guess 4
+#### This is for correct guess
 ![alt text](https://github.com/Avnish-Raut/Guess-the-Number/raw/master/images/6.JPG "Image 6")
-This is for correct guess
+#### After clicking again
 ![alt text](https://github.com/Avnish-Raut/Guess-the-Number/raw/master/images/7.JPG "Image 7")
-After clicking again
+
 
 ## Requirements
 1. Vscode or Sublime or any editor compatible with js 
