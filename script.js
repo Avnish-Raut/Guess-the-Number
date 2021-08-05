@@ -53,7 +53,7 @@ document.querySelector('.check').addEventListener('click', function () {
       highscore = score;
 
       document.querySelector('.highscore').textContent =
-        name + ' - ' + highscore;
+        nam + ' - ' + highscore;
     }
   } else if (guess !== secretNumber) {
     if (score > 1) {
