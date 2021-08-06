@@ -31,5 +31,5 @@ Its an web application built using javascript logic
 
 
 ## Requirements
-1. Vscode or Sublime or any editor compatible with js 
+1. Vscode or Sublime or any editor compatible with js ( for editing purpose , if you just want to run it then you just need a browser)
 2. Just run and enjoy ✨✨
